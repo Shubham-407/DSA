@@ -6,6 +6,7 @@ public class AreaOfCircle {
         int r = input.nextInt();
         float pi = 3.14f;
 
+        //bcabhcb
         float AreaOfCircle =(pi*(r*r));
         System.out.println(AreaOfCircle+" is area of circle");
     }
