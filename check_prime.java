@@ -24,11 +24,11 @@ public class check_prime {
 
         System.out.println();
 
-        // if (isPrime(n)) {
-        //     System.out.println("The number " + n + " is prime");
-        // } else {
-        //     System.out.println("The number " + n + " is not - prime");
-        // }
+        if (isPrime(n)) {
+            System.out.println("The number " + n + " is prime");
+        } else {
+            System.out.println("The number " + n + " is not - prime");
+        }
 
     }
 }
